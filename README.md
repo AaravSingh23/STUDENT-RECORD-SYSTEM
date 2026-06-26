@@ -60,4 +60,4 @@ The project provides a simple and user-friendly **Command Line Interface (CLI)**
 * 🧠 Enhanced problem-solving and logical thinking.
 * 🎓 Simulated a real-world Student Record Management System.
 * 🚀 A great beginner-to-intermediate Python project for learning data management.
-* 
+
